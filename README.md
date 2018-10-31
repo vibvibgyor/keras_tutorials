@@ -1,4 +1,4 @@
-keras_tutorials
+Keras Tutorials
 ===============
 
 Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano. This repository contains basic introduction to Keras in the form of short examples. For a person who is new to keras should read and practice the examples in the following order:
